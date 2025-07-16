@@ -11,3 +11,7 @@ this is the branch
 *commmit 2
 *commmit 3
 *commmit 4
+
+#local development
+
+1.open index.html in your browser
